@@ -1,0 +1,6 @@
+{
+    "size": 10,
+    "origin": [1,1],
+    "destination": [9,9],
+    "obstacles": []
+}
